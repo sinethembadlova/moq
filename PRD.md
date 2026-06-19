@@ -22,6 +22,8 @@ The businesses most affected by MOQs are manufacturers, spaza shops, salons, res
 
 The core assets the platform builds over time are pooled purchasing power, supplier relationships, demand data, and the financial infrastructure to serve buyers who need short-term working capital. This positions MOQ not as an e-commerce company, but as a demand aggregation company — one whose value compounds as more buyers join and more supplier relationships are established.
 
+
+
 # Personas
 
 ## Overview
