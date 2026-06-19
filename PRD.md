@@ -14,14 +14,10 @@ For example, if a supplier's MOQ is 1,800 units, four businesses each contributi
 
 This transforms MOQ from a barrier into a coordination problem — and coordination is exactly what the platform solves.
 
-The platform implements this as an all-or-nothing model, borrowing from crowdfunding mechanics: business partners pledge funds toward a specific campaign and those funds are held in escrow. If the campaign reaches its MOQ target before the deadline, the order is placed and the supplier is paid. If not, all pledges are released back to partners' wallets. No one pays unless the deal actually happens — which eliminates risk for buyers and ensures suppliers only receive orders they can fulfill.
+The platform implements this as an all-or-nothing model, borrowing from crowdfunding mechanics: buyers pledge funds toward a specific campaign and those funds are held in the campaign's wallet. If the campaign reaches its MOQ target before the deadline, the order is placed and the supplier is paid. If not, all pledges are released back to buyers' wallets. No one pays unless the deal actually happens — which eliminates risk for buyers and ensures suppliers only receive orders they can fulfill.
 
 ## Why This Matters
 
 The businesses most affected by MOQs are manufacturers, spaza shops, salons, restaurants, schools, and resellers: the backbone of the South African economy. They understand the problem immediately because they live it. Collectively, they represent an enormous pool of purchasing power that has never been organized. MOQ exists to organize it.
 
 The core assets the platform builds over time are pooled purchasing power, supplier relationships, demand data, and the financial infrastructure to serve buyers who need short-term working capital. This positions MOQ not as an e-commerce company, but as a demand aggregation company — one whose value compounds as more buyers join and more supplier relationships are established.
-
-## Business Model
-
-The platform charges a 3–5% fee on each successful pledge, collected only when a campaign succeeds. Suppliers pay a 2–8% commission on the fulfilled order value in exchange for guaranteed, aggregated demand. Combined, the platform's take stays below approximately 10% of order value. All rates are configuration-driven, allowing the business to adjust them as supplier relationships and market conditions evolve.
